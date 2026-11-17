@@ -132,6 +132,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 - [ARC Prize Leaderboard](https://arcprize.org/leaderboard) - ARC-AGI scores for frontier models and open submissions.
 - [Arena](https://arena.ai/) - Crowdsourced head-to-head model voting, formerly LMArena.
+- [Avanciq AI Scoreboard](https://avanciq.com/scoreboard/) - Fresh business tasks (payroll, month-end close, claims) marked by code, with signed results and 95% ranges.
 - [CompassRank](https://rank.opencompass.org.cn/home) - OpenCompass rankings across multi-domain suites.
 - [Council of AI GSPC](https://github.com/CSOAI-ORG/councilof-ai) - Public board of signed AI behaviour measurements across governance and safety axes.
 - [Epoch AI Benchmarking Hub](https://epoch.ai/benchmarks) - Epoch AI results for leading models on challenging benchmarks.
